@@ -1,5 +1,4 @@
-# Olá! Eu sou o Romulo!
-
+### Olá! Eu sou o Romulo!
 Tenho 22 anos e sou graduando em Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
@@ -8,7 +7,7 @@ Tenho 22 anos e sou graduando em Análise e Desenvolvimento de Sistemas.
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-de-Oliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
----
+#
 
 ### Estudando:
 
@@ -21,7 +20,7 @@ Tenho 22 anos e sou graduando em Análise e Desenvolvimento de Sistemas.
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 </div>
 
----
+#
 
 ### Contate-me:
 
