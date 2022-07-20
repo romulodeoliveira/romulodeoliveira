@@ -4,7 +4,7 @@ Tenho 22 anos. Sou graduando em Análise e Desenvolvimento de Sistemas pela Unia
 
 <div align="center">
   <a href="https://github.com/Romulo-de-Oliveira">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Romulo-de-Oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="337" src="https://github-readme-stats.vercel.app/api?username=Romulo-de-Oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-de-Oliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
