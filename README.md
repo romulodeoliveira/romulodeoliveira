@@ -1,6 +1,6 @@
 # Olá! Eu sou o Romulo!
 
-Tenho 22 anos. Sou graduando em Análise e Desenvolvimento de Sistemas.
+Tenho 22 anos e sou graduando em Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/Romulo-de-Oliveira">
