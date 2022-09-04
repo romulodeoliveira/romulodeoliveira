@@ -14,39 +14,39 @@ Tenho 22 anos e sou graduando em Análise e Desenvolvimento de Sistemas.
 ### Estudando:
 
 <style>
-    .conteudo {
-        display: inline-flex;
-        border-bottom: 4px solid #EFEFEF;
-        border-radius: 5px;
-        position: relative;
-    }
-    .conteudo img {
-        width: 68px;
-        filter: drop-shadow(0px 0px 1px #4B4B50);
-        animation: flutuar 3s linear infinite;
-    }
-    @keyframes flutuar {
-        0%,
-        100% {
-            transform: translateY(0px);
-        }
-        50% {
-            transform: translateY(-23px);
-        }
-    }
-    .conteudo img:nth-child(2) {
-        animation-delay: .2s;
-    .conteudo img:nth-child(3) {
-        animation-delay: .4s;
-    .conteudo img:nth-child(4) {
-        animation-delay: .6s;
-    .conteudo img:nth-child(5) {
-        animation-delay: .8s;
-    .conteudo img:nth-child(6) {
-        animation-delay: .10s;
-    .conteudo img:nth-child(7) {
-        animation-delay: .12s;
-    }
+  .conteudo {
+      display: inline-flex;
+      border-bottom: 4px solid #EFEFEF;
+      border-radius: 5px;
+      position: relative;
+  }
+  .conteudo img {
+      width: 68px;
+      filter: drop-shadow(0px 0px 1px #4B4B50);
+      animation: flutuar 3s linear infinite;
+  }
+  @keyframes flutuar {
+      0%,
+      100% {
+          transform: translateY(0px);
+      }
+      50% {
+          transform: translateY(-23px);
+      }
+  }
+  .conteudo img:nth-child(2) {
+      animation-delay: .2s;
+  .conteudo img:nth-child(3) {
+      animation-delay: .4s;
+  .conteudo img:nth-child(4) {
+      animation-delay: .6s;
+  .conteudo img:nth-child(5) {
+      animation-delay: .8s;
+  .conteudo img:nth-child(6) {
+      animation-delay: .10s;
+  .conteudo img:nth-child(7) {
+      animation-delay: .12s;
+  }
 </style>
 
 <div calss"conteudo" style="display: inline_block"><br>
