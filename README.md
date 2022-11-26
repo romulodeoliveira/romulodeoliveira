@@ -1,37 +1,21 @@
-##
+# 💫 About Me:
+📌 Sou de Fortaleza;<br>📆 Tenho 23 anos;<br>📚 Sou academico em Análise e Desenvolvimento de Sistemas;<br>🐍 Amo Python;<br>💻 Estou estudando HTML/CSS.
 
-### Olá! Eu sou o Romulo!
-Tenho 22 anos e sou graduando em Análise e Desenvolvimento de Sistemas.
 
-<div align="center">
-  <a href="https://github.com/Romulo-de-Oliveira">
-  <img height="180em" width="337" src="https://github-readme-stats.vercel.app/api?username=Romulo-de-Oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-de-Oliveira&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_romulodeoliveira_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/romulodeoliveira/) 
 
-#
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=romulodeoliveira&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=romulodeoliveira&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=romulodeoliveira&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Estudando:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=romulodeoliveira&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
-<div calss"conteudo" style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=romulodeoliveira&icon=2&color=12)](https://visitcount.itsvg.in)
 
-#
-
-### Contate-me:
-
-<div>
-  <a href="https://www.linkedin.com/in/romulodeoliveira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:romulodeoliveira1805@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>  
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
