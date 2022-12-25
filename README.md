@@ -4,13 +4,15 @@
 
 ## 🌐 Socials:
 
-<a href="https://instagram.com/_romulodeoliveira_/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
-</a>
+<div align="center">
+  <a href="https://instagram.com/_romulodeoliveira_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+  </a>
 
-<a href="https://linkedin.com/in/romulodeoliveira/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-</a>
+  <a href="https://linkedin.com/in/romulodeoliveira/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+  </a>
+</div>
 
 # 💻 Tech Stack:
 
