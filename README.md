@@ -1,4 +1,5 @@
-# <p style="text-align:center">💫 About Me:</p>
+#
+<p style="text-align:center">💫 About Me:</p>
 📌 I'm from Fortaleza<br>📆 I have 23 years<br>📚 I'm a bachelor of technology (analysis and systems development)<br>💻 I'm study HTML/CSS<br>🐍 I love Python
 
 
