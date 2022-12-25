@@ -10,8 +10,6 @@
 # 📊 GitHub Stats:
 
 <img src="https://visitcount.itsvg.in/api?id=romulodeoliveira&icon=2&color=12"><br/>
-![](https://github-readme-stats.vercel.app/api?username=romulodeoliveira&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=romulodeoliveira&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=romulodeoliveira&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://github-readme-stats.vercel.app/api?username=romulodeoliveira&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=romulodeoliveira&theme=vision-friendly-dark&hide_border=true"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulodeoliveira&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
