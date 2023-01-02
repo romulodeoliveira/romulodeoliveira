@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-📌 I'm from Fortaleza-CE<br>
+📌 I'm from Fortaleza-CE(Brazil)<br>
 📆 I'm 23 years old<br>
 📚 Bachelor of technology (analysis and systems development)<br>
 💻 Studying HTML/CSS<br>
