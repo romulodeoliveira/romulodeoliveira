@@ -1,5 +1,10 @@
 # 💫 About Me:
-📌 I'm from Fortaleza-CE<br>📆 I'm 23 years old<br>📚 I'm a bachelor of technology (analysis and systems development)<br>💻 I'm study HTML/CSS<br>🐍 I love Python
+
+📌 I'm from Fortaleza-CE<br>
+📆 I'm 23 years old<br>
+📚 Bachelor of technology (analysis and systems development)<br>
+💻 Studying HTML/CSS<br>
+🐍 I love Python
 
 
 ## 🌐 Socials:
