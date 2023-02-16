@@ -10,8 +10,8 @@
 ## 🌐 Socials:
 
 <div align="center">
-  <a href="https://instagram.com/_romulodeoliveira_/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+  <a href="https://romulodeoliveira.github.io/Curso-Origamid-HTML-e-CSS-para-iniciantes/exercice-05/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 
   <a href="https://linkedin.com/in/romulodeoliveira/">
