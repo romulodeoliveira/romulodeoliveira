@@ -17,6 +17,10 @@
   <a href="https://linkedin.com/in/romulodeoliveira/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
   </a>
+  
+  <a href="https://gitlab.com/romulodeoliveira">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
 </div>
 
 # 💻 Tech Stack:
