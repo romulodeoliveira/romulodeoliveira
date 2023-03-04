@@ -4,7 +4,7 @@
 📆 I'm 23 years old<br>
 📚 Bachelor of technology (analysis and systems development)<br>
 💻 Studying HTML/CSS<br>
-🐍 I love Python
+☕ I like Python and Java a lot
 
 
 ## 🌐 Socials:
