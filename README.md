@@ -2,11 +2,10 @@
 
 <div>
   <div>
-    📌 I'm from Fortaleza-CE (Brazil)<br>
-    📆 I'm 23 years old<br>
+    📌 Originally from Fortaleza-CE, Brazil<br>
+    📆 Currently 23 years old<br>
     📚 Bachelor of technology (analysis and systems development)<br>
-    💻 Studying HTML/CSS<br>
-    ☕ I like Python and Java a lot
+    ☕ Java and Python are my favorites programming languages
   </div>
 
   <br>
