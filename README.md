@@ -1,10 +1,23 @@
 # 💫 About Me:
 
-📌 I'm from Fortaleza-CE (Brazil)<br>
-📆 I'm 23 years old<br>
-📚 Bachelor of technology (analysis and systems development)<br>
-💻 Studying HTML/CSS<br>
-☕ I like Python and Java a lot
+<div>
+  <div>
+    📌 I'm from Fortaleza-CE (Brazil)<br>
+    📆 I'm 23 years old<br>
+    📚 Bachelor of technology (analysis and systems development)<br>
+    💻 Studying HTML/CSS<br>
+    ☕ I like Python and Java a lot
+  </div>
+
+  <br>
+  <br>
+  <div align="center">
+    <img src="https://github.com/romulodeoliveira/romulodeoliveira/blob/main/img/night-vaporwave.gif" width="250">
+  </div>
+  <br>
+  <br>
+</div>
+
 
 
 ## 🌐 Socials:
