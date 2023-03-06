@@ -12,13 +12,11 @@
   <br>
   <br>
   <div align="center">
-    <img src="https://github.com/romulodeoliveira/romulodeoliveira/blob/main/img/night-vaporwave.gif" width="250">
+    <img src="https://github.com/romulodeoliveira/romulodeoliveira/blob/main/img/mygif.gif" width="250">
   </div>
   <br>
   <br>
 </div>
-
-
 
 ## 🌐 Socials:
 
