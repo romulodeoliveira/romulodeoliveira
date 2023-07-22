@@ -5,7 +5,7 @@
     📌 Originally from Fortaleza-CE, Brazil<br>
     📆 Currently 23 years old<br>
     📚 Bachelor of technology (analysis and systems development)<br>
-    🐍 Python and C# are my favorites programming languages
+    🇨 C# is my favorite programming language
   </div>
 
   <br>
